@@ -1,5 +1,4 @@
 # meeting-room-booking-nexo
-# Meeting Room Booking App
 
 Mobile application developed using Flutter that allows users to reserve meeting rooms efficiently. The app includes Google authentication and a simple interface to manage reservations in real time.
 
@@ -30,4 +29,4 @@ Mobile application developed using Flutter that allows users to reserve meeting 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/EduardoRodriguezar/meeting-room-booking-nexo.git
