@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296719733350",
+    "project_id": "nexo-avans",
+    "storage_bucket": "nexo-avans.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296719733350:android:61f32d3cc4fc8224a713a7",
+        "android_client_info": {
+          "package_name": "com.avanceinteligente.nexo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWYwaHRuqVRrOElWXwctiLtus3ZDQBRPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
